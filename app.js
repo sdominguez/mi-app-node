@@ -1,5 +1,9 @@
-function suma (a, b){
+const suma = (a, b)=>{
     return a + b;
 }
 
-module.exports = suma;
+const resta = (a, b)=>{
+    return a - b;
+}
+
+module.exports = {suma, resta};
