@@ -10,4 +10,4 @@ const multiplicacion = (a, b)=>{
     return a * b;
 }
 
-module.exports = {suma, resta};
+module.exports = {suma, resta, multiplicacion};
