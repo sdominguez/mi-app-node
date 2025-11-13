@@ -6,4 +6,8 @@ const resta = (a, b)=>{
     return a - b;
 }
 
+const multiplicacion = (a, b)=>{
+    return a * b;
+}
+
 module.exports = {suma, resta};
